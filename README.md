@@ -1,1 +1,9 @@
 # blog
+这是我的个人博客，采用github issues的方式编辑
+# 主要可能会涉及的话题
+- linux(archlinux)
+- golang
+- javascript
+- neovim
+- flutter
+- rust
